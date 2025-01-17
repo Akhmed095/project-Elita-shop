@@ -22,9 +22,9 @@ title{
     0px 0px 16px rgb(255, 214, 214);
 }
 
-/*.navbar .container-fluid .navbar-brand:hover{
+.navbar .container-fluid .navbar-brand:hover{
     color: red;
-}*/
+}
 
 img{
     max-width: 100%;
